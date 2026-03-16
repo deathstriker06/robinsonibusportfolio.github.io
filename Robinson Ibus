@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Robinson Ubas Ibus | Portfolio</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; color: #333; }
+        h1, h2 { color: #0056b3; }
+        .cert-tag { background: #e7f3ff; padding: 5px 10px; border-radius: 5px; font-size: 0.9em; display: inline-block; margin: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Robinson Ubas Ibus</h1>
+    <p><strong>Cloud & Microsoft 365 Support Engineer</strong></p>
+    <p>📍 Bulacan, Philippines [cite: 2] | 📞 09169317433 [cite: 3]</p>
+
+    <h2>Professional Summary</h2>
+    <p>IT Professional with over 7 years of experience in Cloud Infrastructure, Microsoft 365 administration, and technical support[cite: 10, 16, 29]. Specialized in troubleshooting SaaS/PaaS and remote VMware environments[cite: 11].</p>
+
+    <h2>Certifications</h2>
+    <div>
+        <span class="cert-tag">Microsoft Certified: Security, Compliance, and Identity Fundamentals [cite: 79]</span>
+        <span class="cert-tag">Microsoft Certified: Azure Fundamentals [cite: 75]</span>
+        <span class="cert-tag">Microsoft 365 Certified: Fundamentals [cite: 71]</span>
+    </div>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li><strong>Cloud:</strong> Azure, AWS, GCP [cite: 36]</li>
+        <li><strong>M365:</strong> Exchange, SharePoint, Intune, Entra ID [cite: 43, 44, 45, 46]</li>
+        <li><strong>OS:</strong> Windows, Linux, Mac OS [cite: 20]</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <p><strong>Technical Helpdesk Support</strong> | Outsourced Quality Assured Services Inc [cite: 8, 9]<br>
+    <em>June 2024 – February 2026 [cite: 10]</em></p>
+    <ul>
+        <li>Level 1 & 2 troubleshooting for VMware and M365 Cloud products[cite: 11].</li>
+    </ul>
+</body>
+</html>
